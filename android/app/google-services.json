@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261373123393",
+    "project_id": "ceoldevs",
+    "storage_bucket": "ceoldevs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261373123393:android:41d32123461b1f95ef5fc0",
+        "android_client_info": {
+          "package_name": "com.example.xpensio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261373123393-do8iht5q2j5ipt0rqf3rj1uroli5s1de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLltAE4dOefgYk5c5z3mRBW4fY_EfvcY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261373123393-do8iht5q2j5ipt0rqf3rj1uroli5s1de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
